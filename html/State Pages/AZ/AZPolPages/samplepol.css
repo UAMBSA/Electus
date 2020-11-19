@@ -1,0 +1,81 @@
+header {
+  font-size: 24px
+
+}
+body {
+  background-color: Aqua;
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+#navbar{
+  background-color:coral;
+
+}
+#navbar ul{
+  padding:0;
+  list-style:none;
+}
+
+#navbar li{
+
+  display: inline;
+  }
+#profilepic{
+  float:left;
+  margin-top:5px;
+  margin-left:4px;
+  }
+#Title{
+  line-height: .58em;
+  border-right: 6px red solid;
+  border-top: 6px red solid;
+  border-bottom: 6px red solid;
+  border-left: 6px red solid;
+  }
+
+h2{
+    color:black;
+    text-align: center;
+    margin-top: 5px;
+  }
+  h3{
+
+  }
+
+  #About{
+    margin-left: 20px;
+    border:2px solid black;
+  }
+
+#Platform {
+  margin-left:20px;
+  border: 2px solid black;
+}
+
+
+
+
+#Contributors{
+  float:left;
+  width: 50%;
+  border: 2px solid black;
+  box-sizing:border-box;;
+}
+#socials {
+  background-color:coral;
+
+}
+
+#socials a{
+  font-size: 18px;
+  padding-right:15px;
+  }
+#socials ul{
+  padding:0;
+  list-style:none;
+}
+
+#socials li{
+  display: inline;
+  }
